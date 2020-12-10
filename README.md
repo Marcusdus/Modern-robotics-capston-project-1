@@ -15,3 +15,6 @@ To animate the bot, add config.csv to hbox in V-REP GUI. To generate the csv fil
 3. In order to avoid singularity, the pseudo jacobian inverse is given a tolerance of 1e-3
 
 4. Also provision to change the time scaling and trajectory type is also added in parameters in config folder
+
+
+<img width="1909" alt="Screen Shot 2020-12-10 at 20 22 53" src="https://user-images.githubusercontent.com/63025671/101813654-a996e780-3b25-11eb-8a6e-5b4c27b99b60.png">
